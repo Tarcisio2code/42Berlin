@@ -7,18 +7,18 @@ cat is used on it._
 >
 >**_Example_**
 >
->_?>cat z_   
+>_&>cat z_   
 >_Z_   
->_?>_   
+>_&>_   
 >
 
 <br>
 
-**Command used**   
-Echo or Cat.
+**Commands used**   
+>_Echo or Cat._
 
-**Syntax**   
-Echo Z > z.   
-
-Cat > z   
-_type Z and press enter and then ctrl+d to finish._
+**Solution**   
+>_**Echo** Z > z_   
+>
+>_**Cat** > z_   
+>_type Z and press enter and then ctrl+d to finish._
