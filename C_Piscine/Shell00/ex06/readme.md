@@ -41,7 +41,7 @@
 >>>_echo 'mywork.c~' >> .gitignore_
 >
 >_$ **bash** git_ignore.sh | cat -e_   
->_.DS_Store$_   
+>_.DS_Store$_    
 >_mywork.c~$_    
 >
 
