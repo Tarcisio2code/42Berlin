@@ -17,8 +17,22 @@ cat is used on it._
 **Commands used**   
 >_Echo or Cat._
 
-**Solution**   
->_**Echo** Z > z_   
->
->_**Cat** > z_   
->_type Z and press enter and then ctrl+d to finish._
+<br>
+
+**Solution**
+>```diff 
+>Echo Z > z
+>```   
+>_or_
+>```diff 
+>Cat > z   
+>type Z and press enter and then ctrl+d to finish.
+>``` 
+
+<br>
+
+**Result**
+>```diff 
+>cat z
+>```
+>_Z_ 
