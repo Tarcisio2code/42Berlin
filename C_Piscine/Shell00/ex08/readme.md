@@ -1,6 +1,5 @@
 # 42 Berlin - C Piscine - Schell00 - Exercise 08
 
-
 **Subject**
 >  
 > * _In a file called clean place the command line that will search for all files - in the current directory as well as in its sub-directories - with a name ending by ~, or a name that start and end by #._   
