@@ -20,34 +20,47 @@
 >
 >_touch, echo, cat, git,_   
 
+<br>
+
 **Solution**    
 >
 >**Create file**   
->>_$ **touch** git_commit.sh_      
+>```diff
+>touch git_commit.sh      
+>```
 >
 >**Place the command lines**    
->>_$ **echo '#!/bin/sh'** > git_commit.sh_  
->>_$ **echo 'git log --format="%H" -n5'** >> git_commit.sh_   
+>```diff
+>echo '#!/bin/sh'** > git_commit.sh  
+>echo 'git log --format="%H" -n5'** >> git_commit.sh   
+>```
 >
 >**Print file**
->>_$ cat git_commit.sh_   
->>_#!/bin/sh_   
->>_git log --format="%H" -n5_   
+>```diff
+>cat git_commit.sh   
+>```
+>_#!/bin/sh_   
+>_git log --format="%H" -n5_   
+
+<br>
 
 **Result**   
->_$ bash git_commit.sh | cat -e_   
+>```diff
+>bash git_commit.sh | cat -e   
+>```
 >_1a1978037379b787960e9aa058d78d8614b1337b$_   
 >_44cf3b21442b5ad341ef136ad84bf42082402e3d$_   
 >_1df56ce479b4d2114765a70a2665f9f150fca12c$_   
 >_8237afb3f5673b19885123cb0a38128b19927add$_   
 >_d29332211fa707f7bfcb612ab687f5ce280bc901$_    
  
+<br>
 
 **Git log options**   
 >_**--format**_    
 >_Pretty-print the contents of the commit logs in a given format, where <format> can be one of oneline,_
 >_short, medium, full, fuller, reference, email, raw, **format:string** and tformat:<string>._
 >
->_%H : commit hash_
+>_**%H** : commit hash_
 >
 >_https://git-scm.com/docs/git-log_
