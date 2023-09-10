@@ -20,29 +20,70 @@ the file to be submitted: tar -cf testShell00.tar testShell00._
 **Commands used**   
 >_touch, ls, truncate, chmod_   
 
+<br>
+
 **Solution**    
->**Create file**   
->>_$**touch** testShell00_   
+>**Create file**
+>```diff 
+>touch testShell00   
+>```
 >
 >**List file**    
->>_$**ls -l**_   
->>_total 14_   
->>_-rw-r--r-- 1 tsilva tsilva 1 Jun  5 00:00 testShell00_   
->>_$_
+>```diff 
+>ls -l   
+>```
+>_total 14_   
+>_-rw-r--r-- 1 tsilva tsilva 1 Jun  5 00:00 testShell00_   
+>_$_
 >
 >**Change file size**    
->>_$**truncate** -s 40 testShell00_    
+>```diff 
+>truncate -s 40 testShell00    
+>``` 
 >
 >**Change file date and time**    
->>_$**touch** -t 202306012342 testShell00_    
+>```diff 
+>touch -t 202306012342 testShell00    
+>```
 >
 >**Change file access mode**    
->>_$**chmod** 455 testShell00_    
->>>_Octal mode: 4 (read), 2 (write), 1(execute)_    
->>>_4 = Owner Read | 5 = Group Read + Execute | 5 = Public Read + Execute_   
+>```diff 
+>chmod 455 testShell00    
+>```
 
-**Result**    
->_$ls -l_   
+<br>
+
+**Result** 
+>```diff 
+>ls -l
+>```   
+>_$_    
 >_total 14_    
 >_-r--r-xr-x 1 tsilva tsilva 40 Jun  1 23:42 testShell00_    
 >_$_
+
+<br>
+
+**Command options**
+>```diff
+>Man ls
+>```    
+>**-l**    
+>_use a long listing format_
+>
+>```diff
+>Man touch
+>```    
+>**-t**    
+>_use [[CC]YY]MMDDhhmm[.ss] instead of current time_
+>```diff
+>Man truncate
+>```    
+>**-s**    
+>_set or adjust the file size by SIZE bytes_
+>
+>```diff
+>Man chmod
+>```
+>_Octal mode: 4 (read), 2 (write), 1(execute)_    
+>_4 = Owner Read | 5 = Group Read + Execute | 5 = Public Read + Execute_ 
