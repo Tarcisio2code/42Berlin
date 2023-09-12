@@ -14,7 +14,7 @@
 
 **Commands used**   
 >
->_touch, echo, cat, export, id, td_   
+>_touch, echo, cat, chmod, export, id, td_   
 
 <br>
 
