@@ -1,4 +1,4 @@
-# 42 Berlin - C Piscine - Schell01 - Exercise 00
+# 42 Berlin - C Piscine - Schell01 - Exercise 01
 
 **Subject**
 > * _Write a command line that will display the list of groups for which the login, contained in the environment variable FT_USER , is a member. Separated by commas without spaces._    
