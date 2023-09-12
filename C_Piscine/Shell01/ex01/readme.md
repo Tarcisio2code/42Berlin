@@ -37,8 +37,9 @@
 >```
 >_$>_    
 >_id -G -n $FT_USER | tr ' ' ',' | tr -d '\n'_   
->_$>_    
->_**Make the script executable**_   
+>_$>_
+>
+>**Make the script executable**   
 >```diff
 >chmod +x find_sh.sh
 >```
