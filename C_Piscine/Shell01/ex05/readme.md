@@ -1,4 +1,4 @@
-# 42 Berlin - C Piscine - Schell01 - Exercise 04
+# 42 Berlin - C Piscine - Schell01 - Exercise 03
 
 **Subject**
 > * _Write a command line that displays your machine’s MAC addresses. Each address
