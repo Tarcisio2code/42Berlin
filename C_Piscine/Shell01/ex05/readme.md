@@ -1,16 +1,21 @@
-# 42 Berlin - C Piscine - Schell01 - Exercise 03
+# 42 Berlin - C Piscine - Schell01 - Exercise 05
 
 **Subject**
-> * _Write a command line that displays your machine’s MAC addresses. Each address
-must be followed by a line break._   
+> * _Create a file containing only "42", and NOTHING else._   
 >
->_man ifconfing_    
+> * _Its name will be :_   
+>"\\?$\*'MaRViN'\*$?\\"
+>
+> * _Example :_   
+>$>ls -lRa \*MaRV\* | cat -e    
+>-rw---xr-- 1 75355 32015 2 Oct 2 12:21 "\\?$\*'MaRViN'\*$?\\"$    
+>$>
 
 <br>
 
 **Commands used**   
 >
->_touch, echo, cat, ifconfing, awk_   
+>_touch, echo, cat, ls_   
 
 <br>
 
@@ -18,26 +23,35 @@ must be followed by a line break._
 >
 >**Create file**
 >```diff 
->touch MAC.sh
+>touch \"\\\?\$\*\'MaRViN\'\*\$\?\\\"
 >```
 >
->**Place the command line**        
+>**populate file**        
 >```diff
->echo "ifconfig | awk '/ether/{print \$2}'" > MAC.sh
+>echo "42" > '"\?$*'\''MaRViN'\''*$?\"'
 >```
 >
 >**Print file**
->
 >```diff
->cat MAC.sh
+>cat '"\?$*'\''MaRViN'\''*$?\"'
 >```
 >_$>_    
->_ifconfig | awk '/ether/{print $2}'_   
+>_42_   
 >_$>_    
 >
->**Make the script executable**   
+>**Change file permissions**
 >```diff
->chmod +x MAC.sh
+>chmod 614 '"\?$*'\''MaRViN'\''*$?\"'
+>```
+>
+>**Change file size**
+>```diff
+>truncate -s 2 '"\?$*'\''MaRViN'\''*$?\"'
+>```
+>
+>**Change file date and time**
+>```diff
+>touch -t 202310021221 '"\?$*'\''MaRViN'\''*$?\"'
 >```
 
 <br>
@@ -45,26 +59,23 @@ must be followed by a line break._
 **Result**   
 >_**Command line test**_ 
 >```diff
->./MAC.sh
+>ls -lRa *MaRV* | cat -e
 >```
 >_$_    
->_01:05:1d:a1:0f:g2_    
+>_-rw---xr-- 1 tsilva tsilva 2 Oct  2  2023 "\\?$\*'MaRViN'\*$?\\"$_    
 >_$_    
 
 <br>
 
-**ifconfig options**  
+**ls options**  
 >```diff
->man ifconfig
+>man ls
 >```
-**awk options**  
->```diff
->man awk
->```
->_pattern scanning and processing language_    
+>**-l**    
+>_use a long listing format._    
 >
->**/ether/**    
->_filter out all rows that match ether._    
+>**-R, --recursive**    
+>_list subdirectories recursively._    
 >
->**{print $2}**    
->_print second column in corresponding row_
+>**-a, --all**    
+>_do not ignore entries starting with_
