@@ -64,7 +64,7 @@ must be followed by a line break._
 >_pattern scanning and processing language_    
 >
 >**/ether/**    
->_search for ether._    
+>_filter out all rows that match ether._    
 >
 >**{print $2}**    
 >_print second column in corresponding row_
