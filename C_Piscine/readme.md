@@ -23,3 +23,11 @@ _&ensp;&ensp;[ex02 - Search files by extension type, format standard output](htt
 _&ensp;&ensp;[ex03 - Print the number of files and directories](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/Shell01/ex03)_   
 _&ensp;&ensp;[ex04 - Display MAC addresses, filter results by patterns](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/Shell01/ex04)_   
 _&ensp;&ensp;[ex05 - Create files named using special characters](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/Shell01/ex05)_   
+
+**C Language**    
+&ensp;C 00   
+_&ensp;&ensp;[ex00 - Write a character to standard output](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_00/ex00)_   
+_&ensp;&ensp;[ex01 - Using a While Loop to display the a alphabet](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_00/ex01)_   
+_&ensp;&ensp;[ex02 - Using a While Loop to display the a alphabet in reverse order](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_00/ex02)_   
+_&ensp;&ensp;[ex03 - Using a While Loop to display all digits](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_00/ex03)_   
+_&ensp;&ensp;[ex04 - Using an If-Else Statement to display whether the value is positive or negative.](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_00/ex04)_   
