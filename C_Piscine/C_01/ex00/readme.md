@@ -56,10 +56,10 @@ to that int._
 >	// declare and initialize the variable    
 >	int i = 24;    
 >
->	// use the dereference operator to declare pointer variable    
+>	// use the dereference operator(*) to declare pointer variable    
 >	int *nbr;    
 >	
->	// use the address of operator to store the address of a variable in the pointer variable    
+>	// use the address of operator(&) to store the address of a variable in the pointer variable    
 >	nbr = &i;    
 >
 >	// display the first value of the variable    
