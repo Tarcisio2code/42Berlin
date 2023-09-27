@@ -35,6 +35,7 @@
 >```
 >_[Function prototype in C](https://www.geeksforgeeks.org/function-prototype-in-c/)_   
 >
+>**Body of the function**
 >```c
 >{
 >	// declare two integer variables
