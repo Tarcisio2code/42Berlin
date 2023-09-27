@@ -30,7 +30,7 @@
 >```
 >_[Function prototype in C](https://www.geeksforgeeks.org/function-prototype-in-c/)_   
 >
->**swap the values of pointers**
+>**Body of the function**
 >```c
 >{
 >	// declare a temporary integer variable
