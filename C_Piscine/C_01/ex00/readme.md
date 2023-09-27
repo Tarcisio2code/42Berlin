@@ -31,9 +31,10 @@ to that int._
 >```
 >_[Function prototype in C](https://www.geeksforgeeks.org/function-prototype-in-c/)_   
 >
->**Set the new value to the pointer variable**
+>**Body of the function**
 >```c
 >{    
+>	// Set the new value to the pointer variable
 >	*nbr = 42;    
 >}    
 >```
