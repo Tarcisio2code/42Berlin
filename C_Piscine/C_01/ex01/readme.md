@@ -33,7 +33,7 @@
 >**Body of the function**
 >```c
 >{    
->	// Set the new value to the pointer variable
+>	// Set the new value to the pointer
 >	*********nbr = 42;    
 >}    
 >```
@@ -56,9 +56,9 @@
 >	// declare and initialize the variable    
 >	int i = 24;    
 >
->	// declare and initialize the level-1 pointer variable     
->	// use the dereference operator(*) to declare pointer variable 
->	// use the address of operator(&) to store the address of a variable in the pointer variable   
+>	// declare and initialize the level-1 pointer     
+>	// use the dereference operator(*) to declare the pointer 
+>	// use the address of operator(&) to store the address of a variable in the pointer   
 >	int *ptr1 = &i;
 >
 >	// use multiple indirections to create a chain of pointers   
