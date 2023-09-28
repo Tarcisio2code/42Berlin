@@ -34,7 +34,7 @@ to that int._
 >**Body of the function**
 >```c
 >{    
->	// Set the new value to the pointer variable
+>	// Set the new value to the variable pointed to by the pointer
 >	*nbr = 42;    
 >}    
 >```
@@ -57,10 +57,10 @@ to that int._
 >	// declare and initialize the variable    
 >	int i = 24;    
 >
->	// use the dereference operator(*) to declare pointer variable    
+>	// use the dereference operator(*) to declare the pointer    
 >	int *nbr;    
 >	
->	// use the address of operator(&) to store the address of a variable in the pointer variable    
+>	// use the address of operator(&) to store the address of a variable in the pointer    
 >	nbr = &i;    
 >
 >	// display the first value of the variable    
