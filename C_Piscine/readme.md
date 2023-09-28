@@ -30,4 +30,13 @@ _&ensp;&ensp;[ex00 - Write a character to standard output](https://github.com/Ta
 _&ensp;&ensp;[ex01 - Using a While Loop to display the a alphabet](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_00/ex01)_   
 _&ensp;&ensp;[ex02 - Using a While Loop to display the a alphabet in reverse order](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_00/ex02)_   
 _&ensp;&ensp;[ex03 - Using a While Loop to display all digits](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_00/ex03)_   
-_&ensp;&ensp;[ex04 - Using an If-Else Statement to display whether the value is positive or negative.](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_00/ex04)_   
+_&ensp;&ensp;[ex04 - Using an If-Else Statement to display whether the value is positive or negative.](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_00/ex04)_    
+    
+&ensp;C 01   
+_&ensp;&ensp;[ex00 - Change the value of a pointer variable](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_01/ex00)_   
+_&ensp;&ensp;[ex01 - Using a chain of pointers in C](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_01/ex01)_   
+_&ensp;&ensp;[ex02 - Swap values between pointers](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_01/ex02)_   
+_&ensp;&ensp;[ex03 - Using operators in C](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_01/ex03)_   
+_&ensp;&ensp;[ex04 - Operators and pointers](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_01/ex04)_   
+_&ensp;&ensp;[ex05 - Iterate and print a string](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_01/ex05)_   
+_&ensp;&ensp;[ex06 - Counts the number of characters in a string](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_01/ex06)_   
