@@ -90,10 +90,10 @@
 >```c
 >int main(void)
 >{   
->	// Declares a character array and initializes it with an alphabetic string
+>	// Declares a character array and initializes it to an alphabetic string
 >	char alpha[] = "BeRLiN";
 >
->	// Declares a character array and initializes it with to a non-alphabetical string
+>	// Declares a character array and initializes it to a non-alphabetical string
 >	char not_alpha[] = ".BeRLiN";
 >
 >	// Declares a character array and initializes it to an empty string
