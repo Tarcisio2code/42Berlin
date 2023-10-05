@@ -86,7 +86,7 @@
 >int main(void)
 >{   
 >
->	// Declares a character array src[] and initializes it with a string.
+>	// Declares a character array src[] and initializes it to a string.
 >	char src[] = "42 Berlin";
 >
 >	// Declares a character array with space for 10 characters.   
