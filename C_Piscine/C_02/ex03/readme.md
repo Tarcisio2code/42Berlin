@@ -92,10 +92,10 @@
 >```c
 >int main(void)
 >{   
->	// Declares a character array and initializes it with an numeric string
+>	// Declares a character array and initializes it to a numeric string
 >	char digits[] = "42";
 >
->	// Declares a character array and initializes it with to a non-numeric string
+>	// Declares a character array and initializes it to a non-numeric string
 >	char not_digits[] = "berlin";
 >
 >	// Declares a character array and initializes it to an empty string
