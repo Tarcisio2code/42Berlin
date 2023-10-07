@@ -40,3 +40,16 @@ _&ensp;&ensp;[ex03 - Using operators in C](https://github.com/Tarcisio2code/42Be
 _&ensp;&ensp;[ex04 - Operators and pointers](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_01/ex04)_   
 _&ensp;&ensp;[ex05 - Iterate and print a string](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_01/ex05)_   
 _&ensp;&ensp;[ex06 - Counts the number of characters in a string](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_01/ex06)_   
+    
+&ensp;C 02   
+_&ensp;&ensp;[ex00 - Use a pointer to a function to reproduce the function strcpy](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_02/ex00)_   
+_&ensp;&ensp;[ex01 - Use a pointer to a function to reproduce the function strncpy](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_02/ex01)_   
+_&ensp;&ensp;[ex02 - Takes a pointer to a string and checks if it is alphabetical or not](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_02/ex02)_   
+_&ensp;&ensp;[ex03 - Takes a pointer to a string and checks if it is numeric or not](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_02/ex03)_   
+_&ensp;&ensp;[ex04 - Takes a pointer to a string and checks if it is lowercase or not](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_02/ex04)_   
+_&ensp;&ensp;[ex05 - Takes a pointer to a string and checks if it is uppercase or not](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_02/ex05)_   
+_&ensp;&ensp;[ex06 - Takes a pointer to a string and checks if it is printable or not](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_02/ex06)_   
+_&ensp;&ensp;[ex07 - Use a pointer to a function that transforms every letter to uppercase
+](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_02/ex07)_   
+_&ensp;&ensp;[ex08 - Use a pointer to a function that transforms every letter to lowercase
+](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_02/ex08)_   
