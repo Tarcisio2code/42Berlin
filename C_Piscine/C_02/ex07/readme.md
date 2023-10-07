@@ -89,8 +89,8 @@
 >	// Declare a character array and initialize it to a string that contains at least one lowercase character
 >	char c[] = "42 bErliN.";
 >
->	// Call the function with string and print the result
->	printf("%d\n", ft_strupcase(c));
+>	// Call the function with the string and print the result
+>	printf("%s\n", ft_strupcase(c));
 >}  
 >```    
 >_[Storage for Strings in C](https://www.geeksforgeeks.org/storage-for-strings-in-c/)_      
