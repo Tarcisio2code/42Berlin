@@ -151,12 +151,12 @@
 
 **Result**
 >_$_    
->_--- ft_strcmp ---_    
+>_--- ft_strncmp ---_    
 >_s1 and s2 are equal     (0)_   
 >_s1 is less than s2      (-1)_   
 >_s1 is greater than s2   (1)_   
 >    
->_--- strcmp ---_   
+>_--- strncmp ---_   
 >_s1 and s2 are equal     (0)_   
 >_s1 is less than s2      (-1)_    
 >_s1 is greater than s2   (1)_     
