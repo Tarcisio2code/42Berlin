@@ -93,7 +93,7 @@
 >	int size = 3;
 >
 >	// Test ft_strcmp function call
->	printf("--- ft_strcmp ---\n");
+>	printf("--- ft_strncmp ---\n");
 >
 >	// Initializes strings with a sequence of identical characters whose length is equal to the value of the size variable
 >	s1 = "Berlin";
@@ -117,7 +117,7 @@
 >	printf("s1 is greater than s2   (%d)\n", ft_strncmp(s1, s2, size));
 >
 >	// Reset the variables to the same values and pass them as parameters to the strncmp function.
->	printf("\n--- strcmp ---\n");
+>	printf("\n--- strncmp ---\n");
 >	s1 = "Berlin";
 >	s2 = "Ber lin";
 >	printf("s1 and s2 are equal     (%d)\n", strncmp(s1, s2, size));

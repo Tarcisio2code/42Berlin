@@ -32,7 +32,7 @@ int main(void)
     char *s2;
     int size = 3;
 
-    printf("--- ft_strcmp ---\n");
+    printf("--- ft_strncmp ---\n");
     s1 = "Berlin";
     s2 = "Ber lin";
     printf("s1 and s2 are equal     (%d)\n", ft_strncmp(s1, s2, size));
@@ -45,7 +45,7 @@ int main(void)
     s2 = "abcd";
     printf("s1 is greater than s2   (%d)\n", ft_strncmp(s1, s2, size));
 
-    printf("\n--- strcmp ---\n");
+    printf("\n--- strncmp ---\n");
     s1 = "Berlin";
     s2 = "Ber lin";
     printf("s1 and s2 are equal     (%d)\n", strncmp(s1, s2, size));
