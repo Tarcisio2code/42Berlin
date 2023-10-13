@@ -53,3 +53,10 @@ _&ensp;&ensp;[ex07 - Use a pointer to a function that transforms every letter to
 ](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_02/ex07)_   
 _&ensp;&ensp;[ex08 - Use a pointer to a function that transforms every letter to lowercase
 ](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_02/ex08)_   
+
+&ensp;C 03   
+_&ensp;&ensp;[ex00 - Using pointers to reproduce the strcmp function](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_03/ex00)_   
+_&ensp;&ensp;[ex01 - Using pointers to reproduce the strncmp function](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_03/ex01)_   
+_&ensp;&ensp;[ex02 - Use a pointer to a function to reproduce the function strcat](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_03/ex02)_   
+_&ensp;&ensp;[ex03 - Use a pointer to a function to reproduce the function strncat](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_03/ex03)_   
+_&ensp;&ensp;[ex04 - Use a pointer to a function to reproduce the function strstr](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_03/ex04)_   
