@@ -1,4 +1,4 @@
-# 42 Berlin - C Piscine - C 03 - Exercise 04
+# 42 Berlin - C Piscine - C 04 - Exercise 00
 
 **Subject**
 > * _Create a function that counts and returns the number of characters in a string._   
