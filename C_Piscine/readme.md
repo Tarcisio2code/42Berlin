@@ -68,11 +68,7 @@ _&ensp;&ensp;[ex02 - Using recursive function to display all possible values wit
 _&ensp;&ensp;[ex03 - Reproduce the atoi function to converts the initial portion of the string to its int representation](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_04/ex03)_   
 
 &ensp;C 06   
-_&ensp;&ensp;[ex00 - Gets the command-line arguments and prints the name of the program's executable]
-(https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_06/ex00)_   
-_&ensp;&ensp;[ex01 - Gets the command-line arguments and prints them to the standard output]
-(https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_06/ex01)_   
-_&ensp;&ensp;[ex02 - Gets the command-line arguments and prints them in reverse order to the standard output]
-(https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_06/ex02)_   
-_&ensp;&ensp;[ex03 - Gets the command-line arguments and prints them sorted in ascii order]
-(https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_06/ex03)_   
+_&ensp;&ensp;[ex00 - Gets the command-line arguments and prints the name of the program's executable](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_06/ex00)_   
+_&ensp;&ensp;[ex01 - Gets the command-line arguments and prints them to the standard output](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_06/ex01)_   
+_&ensp;&ensp;[ex02 - Gets the command-line arguments and prints them in reverse order to the standard output](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_06/ex02)_   
+_&ensp;&ensp;[ex03 - Gets the command-line arguments and prints them sorted in ascii order](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_06/ex03)_   
