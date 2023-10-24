@@ -57,7 +57,7 @@
 >	}
 >}  
 >```
->_[Operators in C](https://www.geeksforgeeks.org/function-prototype-in-c/)_    
+>_[Operators in C](https://www.geeksforgeeks.org/operators-in-c/)_    
 >_[Modulo Operator (%) in C](https://www.geeksforgeeks.org/modulo-operator-in-c-cpp-with-examples/)_
 >
 >_[C Pointers](https://www.geeksforgeeks.org/c-pointers/)_    
