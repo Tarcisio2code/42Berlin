@@ -67,6 +67,16 @@ _&ensp;&ensp;[ex01 - Use the write system call to displays a string of character
 _&ensp;&ensp;[ex02 - Using recursive function to display all possible values within an integer variable](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_04/ex02)_   
 _&ensp;&ensp;[ex03 - Reproduce the atoi function to converts the initial portion of the string to its int representation](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_04/ex03)_   
 
+&ensp;C 05   
+_&ensp;&ensp;[ex00 - Function that calculates the factorial of a given number using an iterative approach](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_05/ex00)_   
+_&ensp;&ensp;[ex01 - Recursive function that returns the factorial of the number given as a parameter](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_05/ex01)_   
+_&ensp;&ensp;[ex02 - Function that calculates the power of a number using an iterative approach](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_05/ex02)_   
+_&ensp;&ensp;[ex03 - Recursive function that returns the value of a power applied to a number](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_05/ex03)_   
+_&ensp;&ensp;[ex04 - Recursive function that calculate the Fibonacci number at a given number](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_05/ex04)_   
+_&ensp;&ensp;[ex05 - Function to return the square root of a number](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_05/ex05)_   
+_&ensp;&ensp;[ex06 - Function that returns whether a number is a prime](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_05/ex06)_   
+_&ensp;&ensp;[ex07 - Function that returns the next prime number](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_05/ex07)_   
+
 &ensp;C 06   
 _&ensp;&ensp;[ex00 - Gets the command-line arguments and prints the name of the program's executable](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_06/ex00)_   
 _&ensp;&ensp;[ex01 - Gets the command-line arguments and prints them to the standard output](https://github.com/Tarcisio2code/42Berlin/tree/master/C_Piscine/C_06/ex01)_   
@@ -154,4 +164,6 @@ _&ensp;&ensp;[ex03 - Gets the command-line arguments and prints them sorted in a
 >_[Main Function in C](https://www.geeksforgeeks.org/main-function-in-c/)_    
 >	
 >_[Command Line Arguments](https://www.geeksforgeeks.org/command-line-arguments-in-c-cpp/)_   
+>
+>_[Ternary operator in C](https://www.geeksforgeeks.org/conditional-or-ternary-operator-in-c/)_    
 >
