@@ -106,7 +106,7 @@
 
 **Run program**
 >```
->./a.out
+>./a.out test1 test2 test3 42 Berlin
 >```
 
 **Result**
