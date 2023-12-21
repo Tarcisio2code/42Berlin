@@ -9,7 +9,8 @@
 <br>
 
 **Mandatory part** 
-> [**Makefile**: _Configuration file that defines how a C program should be compiled_](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/Makefile)
+> [**Makefile**: _Configuration file that defines how a C program should be compiled_](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/Makefile)   
+> [**libft.h:** _Header file that defines prototypes for functions and structures_](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/libft.h)
 
 <br>
 
