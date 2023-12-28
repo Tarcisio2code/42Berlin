@@ -71,22 +71,22 @@ int	ft_atoi(const char *str)
 	// and store the pointer to the modified string in (src)
 	src = ft_trimspaces((char *)str);
 
-   // Initialize is_even to 0
+   	// Initialize is_even to 0
 	is_even = 0;
 
-   // Initialize is_even to 0
+   	// Initialize is_even to 0
 	result = 0;
 
-   // Checks if the first character of the trimmed string is either '+' or '-'
+   	// Checks if the first character of the trimmed string is either '+' or '-'
 	if ((*src == '+' || *src == '-') && *src++ == '-')
-   // If it's '-', increments the is_even flag
+   		// If it's '-', increments the is_even flag
 		is_even++;
 
-   // Checks if src is not pointing to the null terminator and if the current character is a digit
+   	// Checks if src is not pointing to the null terminator and if the current character is a digit
 	if (*src && ft_isdigit(*src))
-   //Calls the get_numbers function with src and is_even as arguments to actually perform the conversion
+   		//Calls the get_numbers function with src and is_even as arguments to actually perform the conversion
 		result = get_numbers(src, is_even);
 
-   //The function returns the result, which holds the converted integer value
+   	//The function returns the result, which holds the converted integer value
 	return (result);
 }
