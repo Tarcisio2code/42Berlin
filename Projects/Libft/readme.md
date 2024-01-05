@@ -12,9 +12,9 @@
 > _[**Makefile**: Configuration file that defines how a C program should be compiled](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/Makefile)_   
 > _[**libft.h:** Header file that defines prototypes for functions and structures](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/libft.h)_
 >
-> **Part 1 - Libc functions**
+> **Part 1 - Libc functions**   
 > _[**ft_isalpha.c** Determines whether the input value corresponds to an alphabetic character](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_isalpha.c)_   
-> _[**ft_bzero.c** Sets a specified number of bytes in a given memory block to zero](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_bzero.c)_
+> _[**ft_bzero.c** Sets a specified number of bytes in a given memory block to zero](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_bzero.c)_   
 > _[**ft_atoi.c** Function that converts a string of digits into an integer value](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_atoi.c)_
 
 <br>
