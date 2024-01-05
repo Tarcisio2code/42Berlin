@@ -31,6 +31,6 @@
 >_[man bzero](https://man7.org/linux/man-pages/man3/bzero.3.html)_
 >_[C Pointers](https://www.geeksforgeeks.org/c-pointers/)_     
 >_[Pointers to functions](https://www.ibm.com/docs/en/zos/3.1.0?topic=functions-pointers)_    
->_[size_t data type in C](https://www.geeksforgeeks.org/size_t-data-type-c-language/)_
+>_[**size_t** data type in C](https://www.geeksforgeeks.org/size_t-data-type-c-language/)_    
 >_[man atoi](https://man7.org/linux/man-pages/man3/atoi.3.html)_    
 >
