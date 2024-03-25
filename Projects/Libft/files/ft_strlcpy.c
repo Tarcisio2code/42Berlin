@@ -13,9 +13,9 @@
 #include "libft.h"
 
 size_t	ft_strlcpy(char *dst, const char *src, size_t size)
-// - dst: Pointer to the destination string.
-// - src: Pointer to the source string.
-// - size: Maximum number of characters to copy, including the null terminator
+// dst: Pointer to the destination string.
+// src: Pointer to the source string.
+// size: Maximum number of characters to copy, including the null terminator
 {
   // Variable to keep track of the number of characters in the source string
   // size_t is used to represent sizes and lengths, it can represent the size of the largest
