@@ -13,9 +13,30 @@
 > _[**libft.h:** Header file that defines prototypes for functions and structures](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/libft.h)_
 >
 > **Part 1 - Libc functions**   
-> _[**ft_isalpha.c** Determines whether the input value corresponds to an alphabetic character](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_isalpha.c)_   
+> _[**ft_isalpha.c** Determines whether the input value corresponds to an alphabetic character](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_isalpha.c)_    
+> _[**ft_isdigit.c** Check whether the provided integer represents a digit character](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_isdigit.c)_    
+> _[**ft_isalnum.c** Checks whether the input c falls within the ASCII range of alphanumeric characters](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_isalnum.c)_    
+> _[**ft_isascii.c** Checks whether an integer corresponds to a valid ASCII character](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_isascii.c)_    
+> _[**ft_isprint.c** Check whether a given integer value corresponds to a printable ASCII character](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_isprint.c)_    
+> _[**ft_strlen.c** Calculates the length of a null-terminated string](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_strlen.c)_   
+> _[**ft_memset.c** Fills a block of memory with a specific integer value](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_memset.c)_   
 > _[**ft_bzero.c** Sets a specified number of bytes in a given memory block to zero](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_bzero.c)_   
-> _[**ft_atoi.c** Function that converts a string of digits into an integer value](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_atoi.c)_
+> _[**ft_memcpy.c** Copies 'n' bytes from one block of memory to another](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_memcpy.c)_   
+> _[**ft_memmove.c** Copies 'n' bytes from one block of memory to another avoiding overlapping memory areas](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_memmove.c)_   
+> _[**ft_strlcpy.c** Copies a string from source to dest. with a specified size limit, ensuring null-termination of the destination string](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_strlcpy.c)_    
+> _[**ft_strlcat.c** Appends a string from source to destination with a specified size limit](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_strlcat.c)_    
+> _[**ft_toupper.c** Converts a lowercase ASCII character to uppercase](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_toupper.c)_    
+> _[**ft_tolower.c** Converts a uppercase ASCII character to lowercase](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_tolower.c)_    
+> _[**ft_strchr.c** Searches for the first occurrence of a specified character in a string](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_strchr.c)_    
+> _[**ft_strrchr.c** Searches for the last occurrence of a specified character in a string](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_strrchr.c)_    
+> _[**ft_strncmp.c** Compares at most n characters of two strings, and returns an integer indicating their relative ordering](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_strncmp.c)_    
+> _[**ft_memchr.c** Searches for a byte within a memory block and returns a pointer to it…
+…s first occurrence](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_memchr.c)_    
+> _[**ft_memcmp.c** Compares the first n bytes of two memory blocks and returns their relative order](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_memcmp.c)_    
+> _[**ft_strnstr.c** Compares the first n bytes of two memory blocks and returns their relative order](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_strnstr.c)_    
+> _[**ft_atoi.c** Function that converts a string of digits into an integer value](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_atoi.c)_    
+> _[**ft_calloc.c** Allocates 'n' bytes and returns a pointer to the allocated memory](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_calloc.c)_   
+> _[**ft_strdup.c** Duplicates a string by allocating memory and copying the content of the source string into it](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_strdup.c)_    
 
 <br>
 
