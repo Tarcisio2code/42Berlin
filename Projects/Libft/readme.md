@@ -37,6 +37,18 @@
 > _[**ft_atoi.c** Function that converts a string of digits into an integer value](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_atoi.c)_    
 > _[**ft_calloc.c** Allocates 'n' bytes and returns a pointer to the allocated memory](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_calloc.c)_   
 > _[**ft_strdup.c** Duplicates a string by allocating memory and copying the content of the source string into it](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_strdup.c)_    
+    
+**Part 2 - Additional functions** 
+> _[**ft_substr.c** Extract a specific portion of a string and returns a pointer to the newly allocated substring](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_substr.c)_    
+> _[**ft_strjoin.c** Concatenates two strings into a newly allocated string](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_strjoin.c)_    
+> _[**ft_strtrim.c** Trims characters from the start and end of a string that are present in a given set](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_strtrim.c)_    
+> _[**ft_itoa.c** Converts an integer to its string representation](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_itoa.c)_    
+> _[**ft_strmapi.c** Applies a function to each character of a string to create a new string](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_strmapi.c)_    
+> _[**ft_striteri.c** Applies a function to each character of a string, modifying the string in place](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_striteri.c)_    
+> _[**ft_putchar_fd.c** Writes a single character to a specified file descriptor](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_putchar_fd.c)_    
+> _[**ft_putstr_fd.c** Writes a string to a specified file descriptor](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_putstr_fd.c)_    
+> _[**ft_putendl_fd.c** Writes a string followed by a newline to a specified file descriptor](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_putendl_fd.c)_    
+> _[**ft_putnbr_fd.c** Writes an integer to a specified file descriptor](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_putnbr_fd.c)_    
 
 <br>
 
@@ -50,8 +62,9 @@
 >_[man isaplha](https://man7.org/linux/man-pages/man3/isspace.3.html)_   
 >_[ASCII — Linux manual page](https://man7.org/linux/man-pages/man7/ascii.7.html)_  
 >_[man bzero](https://man7.org/linux/man-pages/man3/bzero.3.html)_
->_[C Pointers](https://www.geeksforgeeks.org/c-pointers/)_     
+>_[**C Pointers**](https://www.geeksforgeeks.org/c-pointers/)_     
 >_[Pointers to functions](https://www.ibm.com/docs/en/zos/3.1.0?topic=functions-pointers)_    
 >_[**size_t** data type in C](https://www.geeksforgeeks.org/size_t-data-type-c-language/)_    
 >_[man atoi](https://man7.org/linux/man-pages/man3/atoi.3.html)_    
->_[File descriptiors in Linux](https://en.wikipedia.org/wiki/File_descriptor)_    
+>_[**File descriptiors** in Linux](https://en.wikipedia.org/wiki/File_descriptor)_    
+>_[Recursive functions in C](https://www.geeksforgeeks.org/c-recursion/)_   
