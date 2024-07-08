@@ -58,10 +58,10 @@
 >_[**ar** - Linux manual page](https://man7.org/linux/man-pages/man1/ar.1.html)_   
 >_[**rm** - Linux manual page](https://man7.org/linux/man-pages/man1/rm.1.html)_   
 >_[**ranlib** - Linux manual page](https://man7.org/linux/man-pages/man1/ranlib.1.html)_   
->_[C Preprocessors (#)](https://www.geeksforgeeks.org/cc-preprocessors/)_
+>_[C Preprocessors (#)](https://www.geeksforgeeks.org/cc-preprocessors/)_    
 >_[man isaplha](https://man7.org/linux/man-pages/man3/isspace.3.html)_   
 >_[ASCII — Linux manual page](https://man7.org/linux/man-pages/man7/ascii.7.html)_  
->_[man bzero](https://man7.org/linux/man-pages/man3/bzero.3.html)_
+>_[man bzero](https://man7.org/linux/man-pages/man3/bzero.3.html)_    
 >_[**C Pointers**](https://www.geeksforgeeks.org/c-pointers/)_     
 >_[Pointers to functions](https://www.ibm.com/docs/en/zos/3.1.0?topic=functions-pointers)_    
 >_[**size_t** data type in C](https://www.geeksforgeeks.org/size_t-data-type-c-language/)_    
