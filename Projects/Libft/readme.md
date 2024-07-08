@@ -54,4 +54,4 @@
 >_[Pointers to functions](https://www.ibm.com/docs/en/zos/3.1.0?topic=functions-pointers)_    
 >_[**size_t** data type in C](https://www.geeksforgeeks.org/size_t-data-type-c-language/)_    
 >_[man atoi](https://man7.org/linux/man-pages/man3/atoi.3.html)_    
->
+>_[File descriptiors in Linux](https://en.wikipedia.org/wiki/File_descriptor)_    
