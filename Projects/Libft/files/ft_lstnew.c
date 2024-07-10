@@ -1,10 +1,20 @@
-/**
- * ft_lstnew - Creates a new list node.
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   ft_lstnew.c                                        :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: tsilva <tsilva@student.42.fr>              +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2023/11/29 13:32:27 by tsilva            #+#    #+#             */
+/*   Updated: 2023/11/29 13:35:34 by tsilva           ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
+/*
  * content: The content to store in the new node.
  *
  * This function allocates memory for a new node, initializes its content and next pointer,
  * and returns a pointer to the new node. If memory allocation fails, it returns NULL.
- */
+*/
 t_list *ft_lstnew(void *content)
 {
     // Declare a pointer to hold the new node.
