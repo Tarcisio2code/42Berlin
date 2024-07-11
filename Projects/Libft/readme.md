@@ -30,8 +30,7 @@
 > _[**ft_strchr.c** Searches for the first occurrence of a specified character in a string](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_strchr.c)_    
 > _[**ft_strrchr.c** Searches for the last occurrence of a specified character in a string](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_strrchr.c)_    
 > _[**ft_strncmp.c** Compares at most n characters of two strings, and returns an integer indicating their relative ordering](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_strncmp.c)_    
-> _[**ft_memchr.c** Searches for a byte within a memory block and returns a pointer to it…
-…s first occurrence](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_memchr.c)_    
+> _[**ft_memchr.c** Searches for a byte within a memory block and returns a pointer to its first occurrence](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_memchr.c)_    
 > _[**ft_memcmp.c** Compares the first n bytes of two memory blocks and returns their relative order](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_memcmp.c)_    
 > _[**ft_strnstr.c** Compares the first n bytes of two memory blocks and returns their relative order](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_strnstr.c)_    
 > _[**ft_atoi.c** Function that converts a string of digits into an integer value](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_atoi.c)_    
@@ -49,6 +48,17 @@
 > _[**ft_putstr_fd.c** Writes a string to a specified file descriptor](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_putstr_fd.c)_    
 > _[**ft_putendl_fd.c** Writes a string followed by a newline to a specified file descriptor](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_putendl_fd.c)_    
 > _[**ft_putnbr_fd.c** Writes an integer to a specified file descriptor](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_putnbr_fd.c)_    
+>    
+> **Bonus Part**    
+> _[**ft_lstnew.c** Creates a new list node](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_lstnew.c)_    
+> _[**ft_lstadd_front.c** Adds a new node at the beginning of a list](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_lstadd_front.c)_    
+> _[**ft_lstsize.c** Counts the number of nodes in a list](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_lstsize.c)_    
+> _[**ft_lstlast.c** Returns the last node of a list](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_lstlast.c)_    
+> _[**ft_lstadd_back.c** Adds a new node at the end of a list](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_lstadd_back.c)_    
+> _[**ft_lstdelone.c** Deletes a single node from a list](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_lstdelone.c)_    
+> _[**ft_lstclear.c** Deletes and frees all nodes of a list](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_lstclear.c)_    
+> _[**ft_lstiter.c** Applies a function to each content of the list nodes](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_lstiter.c)_    
+> _[**ft_lstmap.c** Applies a function to each content of the list nodes and creates a new list with the results](https://github.com/Tarcisio2code/42Berlin/blob/master/Projects/Libft/files/ft_lstmap.c)_    
 
 <br>
 
@@ -67,4 +77,6 @@
 >_[**size_t** data type in C](https://www.geeksforgeeks.org/size_t-data-type-c-language/)_    
 >_[man atoi](https://man7.org/linux/man-pages/man3/atoi.3.html)_    
 >_[**File descriptiors** in Linux](https://en.wikipedia.org/wiki/File_descriptor)_    
->_[Recursive functions in C](https://www.geeksforgeeks.org/c-recursion/)_   
+>_[**Recursive functions** in C](https://www.geeksforgeeks.org/c-recursion/)_   
+>_[**Linked List** Program in C](https://www.tutorialspoint.com/data_structures_algorithms/linked_list_program_in_c.htm)_   
+>_[**void Pointer** in C Program in C](https://www.geeksforgeeks.org/void-pointer-c-cpp/)_   
