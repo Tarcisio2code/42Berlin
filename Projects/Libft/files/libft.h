@@ -18,10 +18,9 @@
 # define LIBFT_H
 
 //Use include Statements to provide functionality from multiple standard C libraries
-# include <unistd.h>
-# include <stdio.h>
-# include <string.h>
-# include <stdlib.h>
+#include <unistd.h>   // For system-level I/O functions (e.g., write, read) used in file descriptor functions.
+#include <stdlib.h>   // For memory management functions (e.g., malloc, free) and utilities like atoi.
+#include <stddef.h>   // For defining types like size_t and NULL used in pointer and memory handling.
 
 //Defines a custom data structure that represents a basic linked list node
 typedef struct s_list

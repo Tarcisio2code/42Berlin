@@ -9,6 +9,9 @@
 /*   Updated: 2023/11/29 13:35:34 by tsilva           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+#include "libft.h"
+
 /*
  * content: The content to store in the new node.
  *

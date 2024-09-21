@@ -9,6 +9,9 @@
 /*   Updated: 2023/11/25 11:12:43 by tsilva           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+#include "libft.h"
+
 /*
  * c: The character to be written.
  * fd: The file descriptor where the character will be written.

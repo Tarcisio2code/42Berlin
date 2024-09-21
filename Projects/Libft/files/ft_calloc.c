@@ -9,6 +9,8 @@
 /*   Updated: 2023/12/03 14:12:38 by tsilva           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+#include "libft.h"
 /*
  * Returns a pointer to the allocated memory, which is set to zero. If the allocation fails, returns NULL.
  * nmemb: Number of elements to allocate.

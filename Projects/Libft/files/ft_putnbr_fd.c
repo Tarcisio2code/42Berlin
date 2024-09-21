@@ -9,6 +9,9 @@
 /*   Updated: 2023/12/04 15:37:25 by tsilva           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+#include "libft.h"
+
 /*
  * n: The integer to be written.
  * fd: The file descriptor where the integer will be written.

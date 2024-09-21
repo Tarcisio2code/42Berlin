@@ -9,6 +9,8 @@
 /*   Updated: 2023/11/18 18:06:04 by tsilva           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+#include "libft.h"
 /*
  * src: The source string to be duplicated.
  *

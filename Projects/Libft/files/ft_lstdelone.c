@@ -9,6 +9,9 @@
 /*   Updated: 2023/11/30 18:01:36 by tsilva           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+#include "libft.h"
+
 /*
  * @lst: The node to be deleted.
  * @del: A function pointer to delete the content of the node.

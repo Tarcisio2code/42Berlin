@@ -9,6 +9,8 @@
 /*   Updated: 2023/12/04 15:13:07 by tsilva           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+#include "libft.h"
 /*
  * s: The source string to be mapped.
  * f: The function to apply to each character of the source string.

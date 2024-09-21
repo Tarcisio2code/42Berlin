@@ -9,6 +9,9 @@
 /*   Updated: 2023/11/28 15:05:23 by tsilva           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+#include "libft.h"
+
 /*
  * s1: The first string to be concatenated.
  * s2: The second string to be concatenated.

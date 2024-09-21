@@ -9,6 +9,12 @@
 /*   Updated: 2023/12/15 13:02:17 by tsilva           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+#include "libft.h"
+static char	**del_tokens(char **str, int len);
+static char	*get_token(char const *s, char c, int s_pos);
+static int	count_token(char const *s, char c);
+
 /*
  * s: The source string to be split.
  * c: The delimiter character.
@@ -70,3 +76,76 @@ char **ft_split(char const *s, char c)
     // Return the pointer to the array of token strings.
     return (result);
 }
+
+// Counts the number of tokens (substrings) in 's' separated by the character 'c'.
+static int	count_token(char const *s, char c)
+{
+	size_t	count;  // Variable to store the number of tokens.
+	int		pos;    // Position index for iterating through the string 's'.
+
+	count = 0;
+	pos = 0;
+
+	// Iterate through the string 's'.
+	while (s[pos])
+	{
+		// If current character is not 'c' and the next character is either 'c' or end of string, increment the token count.
+		if (s[pos] != c && (s[pos + 1] == c || s[pos + 1] == '\0'))
+			count++;
+		pos++;  // Move to the next character.
+	}
+
+	// Return the total number of tokens found.
+	return (count);
+}
+
+// Extracts a single token (substring) from 's', starting from position 's_pos', until it encounters the delimiter 'c'.
+static char	*get_token(char const *s, char c, int s_pos)
+{
+	char	*str;   // Pointer to the new token (substring).
+	size_t	size;   // Variable to store the length of the token.
+	int		pos;    // Position index for scanning the token.
+
+	size = 0;
+	pos = s_pos;
+
+	// Calculate the length of the token by iterating until a 'c' or the end of the string is found.
+	while (s[pos] && s[pos++] != c)
+		size++;
+
+	// Allocate memory for the token, including space for the null terminator.
+	str = (char *)malloc((size + 1) * sizeof(char));
+	if (!str)
+		return (0);  // Return NULL if memory allocation fails.
+
+	pos = 0;
+
+	// Copy characters from 's' into the new string 'str', stopping at 'c' or end of the string.
+	while (s[s_pos] && s[s_pos] != c)
+		str[pos++] = s[s_pos++];
+
+	// Null-terminate the string.
+	str[pos] = '\0';
+
+	// Return the token.
+	return (str);
+}
+
+// Frees the memory of all tokens stored in the array 'str' up to 'len' tokens.
+static char	**del_tokens(char **str, int len)
+{
+	int	pos;  // Position index for iterating through the array of tokens.
+
+	pos = 0;
+
+	// Free each token up to 'len' tokens.
+	while (pos <= len)
+		free(str[pos++]);
+
+	// Free the array itself.
+	free(str);
+
+	// Return NULL as a signal that the array has been freed.
+	return (0);
+}
+

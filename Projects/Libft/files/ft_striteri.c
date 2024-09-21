@@ -9,6 +9,9 @@
 /*   Updated: 2023/11/25 11:04:33 by tsilva           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+#include "libft.h"
+
 /*
  * s: The source string to be iterated over.
  * f: The function to apply to each character of the source string.

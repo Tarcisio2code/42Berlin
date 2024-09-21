@@ -9,6 +9,9 @@
 /*   Updated: 2023/12/14 16:55:10 by tsilva           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+#include "libft.h"
+
 /*
  * lst: The pointer to the first node of the original list.
  * f: A function pointer to apply to the content of each node.

@@ -9,6 +9,9 @@
 /*   Updated: 2023/12/11 16:57:31 by tsilva           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+#include "libft.h"
+
 int	ft_isalpha(int c)
 // c: represents an ASCII value to be checked
 {

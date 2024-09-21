@@ -9,6 +9,10 @@
 /*   Updated: 2023/12/04 15:06:49 by tsilva           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+#include "libft.h"
+
+static int	check_set(char c, const char *set);
 /*
  * s1: The source string to be trimmed.
  * set: The set of characters to trim from the source string.
@@ -65,4 +69,15 @@ char *ft_strtrim(char const *s1, char const *set)
 
     // Return the pointer to the newly created trimmed string.
     return (result);
+}
+
+static int	check_set(char c, const char *set)
+{
+	// Loop through each character in the 'set' string.
+	while (*set)
+		// If the current character in 'set' matches 'c', return 1 (true).
+		if (*set++ == c)
+			return (1);
+	// If no match is found after checking all characters, return 0 (false).
+	return (0);
 }

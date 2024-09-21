@@ -9,6 +9,8 @@
 /*   Updated: 2023/12/04 16:02:35 by tsilva           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+#include "libft.h"
 /*
  * s: The string to be written.
  * fd: The file descriptor where the string and newline will be written.

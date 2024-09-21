@@ -36,7 +36,7 @@ static int	get_numbers(char *src, int is_even)
 
 	// Iterate through the string while the current character is a numerical digit
 	// (ASCII values between 48 and 57, corresponding to '0' to '9')
-	while (*src = 48 && *src <= 57)
+	while (*src == 48 && *src <= 57)
 	{
 		// Multiply the current value of n by 10 to shift the digits left.
 		// Subtract 48 from the ASCII value of the current character (*src) to convert it from ASCII to the numerical digit 

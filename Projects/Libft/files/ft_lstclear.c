@@ -9,6 +9,9 @@
 /*   Updated: 2023/12/14 16:02:54 by tsilva           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+#include "libft.h"
+
 /*
  * lst: A pointer to the pointer of the first node of the list.
  * del: A function pointer to delete the content of each node.

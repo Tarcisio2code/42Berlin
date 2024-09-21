@@ -9,6 +9,9 @@
 /*   Updated: 2023/12/14 15:11:30 by tsilva           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+#include "libft.h"
+
 /*
  * ft_substr - Creates a substring from a given string.
  * s: The source string from which the substring is created.

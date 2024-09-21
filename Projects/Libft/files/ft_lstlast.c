@@ -9,6 +9,9 @@
 /*   Updated: 2023/12/04 16:09:03 by tsilva           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+#include "libft.h"
+
 /*
  * lst: The pointer to the first node of the list.
  *
