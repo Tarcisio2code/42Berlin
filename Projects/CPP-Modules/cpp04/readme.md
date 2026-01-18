@@ -36,10 +36,11 @@ This module introduces **Subtype Polymorphism**, **Abstract Classes**, and Inter
 
 ## 📸 Featured Exercise: [ex02](https://github.com/Tarcisio2code/42Berlin/tree/master/Projects/CPP-Modules/cpp04/ex02)
 
-> **Implementation Highlights:**
-> - **Pure Virtual Functions**: Transformed the Animal class into an Abstract Class by declaring makeSound() as a pure virtual function (= 0), ensuring it cannot be instantiated.
-> - **Interface Contract**: Forced all derived classes (Dog and Cat) to implement their own specific makeSound() logic, guaranteeing polymorphic behavior.
-> - **Memory Integrity**: Maintained the use of Virtual Destructors to ensure that even when using Abstract Class pointers, the full object (including the Brain) is correctly deallocated.
-> - **Object Composition**: Integrated the Brain class through private pointers to demonstrate that abstract hierarchies can still manage complex data structures.
+**Implementation Highlights:**
+- **Pure Virtual Functions**: Transformed the Animal class into an Abstract Class by declaring makeSound() as a pure virtual function (= 0), ensuring it cannot be instantiated.
+- **Interface Contract**: Forced all derived classes (Dog and Cat) to implement their own specific makeSound() logic, guaranteeing polymorphic behavior.
+- **Memory Integrity**: Maintained the use of Virtual Destructors to ensure that even when using Abstract Class pointers, the full object (including the Brain) is correctly deallocated.
+- **Object Composition**: Integrated the Brain class through private pointers to demonstrate that abstract hierarchies can still manage complex data structures.
 
-![Implementation of ex02](https://github.com/Tarcisio2code/42Berlin/tree/master/Projects/CPP-Modules/cpp04/screenshot.png)
+![preview](screenshot.png)
+

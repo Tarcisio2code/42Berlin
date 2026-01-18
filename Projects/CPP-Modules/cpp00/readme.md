@@ -37,10 +37,9 @@ This is the first project of the C++ track at 42 School. The primary focus is th
 
 ## 📸 Featured Exercise: [ex01](https://github.com/Tarcisio2code/42Berlin/tree/master/Projects/CPP-Modules/cpp00/ex01)
 
-> **Implementation Highlights:**
-> - **Formatting:** Used `std::setw` for precise tabular data alignment.
-> - **Validation:** Robust input checking using `std::getline` and buffer clearing.
-> - **Logic:** Circular buffer implementation to manage a maximum of 8 contacts.
+**Implementation Highlights:**
+- **Formatting:** Used `std::setw` for precise tabular data alignment.
+- **Validation:** Robust input checking using `std::getline` and buffer clearing.
+- **Logic:** Circular buffer implementation to manage a maximum of 8 contacts.
 
-![Implementation of ex01](https://github.com/Tarcisio2code/42Berlin/tree/master/Projects/CPP-Modules/cpp00/screenshot.png)
-
+![preview](screenshot.png)

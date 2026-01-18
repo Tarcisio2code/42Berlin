@@ -36,10 +36,11 @@ This module introduces the concept of **Inheritance** in C++. The project follow
 
 ## 📸 Featured Exercise: [ex02](https://github.com/Tarcisio2code/42Berlin/tree/master/Projects/CPP-Modules/cpp03/ex02)
 
-> **Implementation Highlights:**
-> - **Class Extension**: Successfully derived FragTrap from the ClapTrap base class, inheriting attributes while defining new specialized behaviors.
-> - **Method Overriding**: Reimplemented the attack method to reflect FragTrap's unique combat style and higher damage output.
-> - **Specialized Functionality**: Implemented the highFivesGuys member function, demonstrating how derived classes can introduce entirely new capabilities not present in the parent class.
-> - **Chained Initialization**: Properly managed constructor and destructor sequences to ensure the base class is initialized before the derived class attributes.
+**Implementation Highlights:**
+- **Class Extension**: Successfully derived FragTrap from the ClapTrap base class, inheriting attributes while defining new specialized behaviors.
+- **Method Overriding**: Reimplemented the attack method to reflect FragTrap's unique combat style and higher damage output.
+- **Specialized Functionality**: Implemented the highFivesGuys member function, demonstrating how derived classes can introduce entirely new capabilities not present in the parent class.
+- **Chained Initialization**: Properly managed constructor and destructor sequences to ensure the base class is initialized before the derived class attributes.
 
-![Implementation of ex02](https://github.com/Tarcisio2code/42Berlin/tree/master/Projects/CPP-Modules/cpp03/screenshot.png)
+![preview](screenshot.png)
+

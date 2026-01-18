@@ -36,9 +36,9 @@ This module explores memory allocation, references, and pointers to members in C
 
 ## 📸 Featured Exercise: [ex05](https://github.com/Tarcisio2code/42Berlin/tree/master/Projects/CPP-Modules/cpp01/ex05)
 
-> **Implementation Highlights:**
-> - **Efficiency**: Replaced complex if/else or switch structures with an array of pointers to member functions for $O(1)$ command lookup.
-> - **Robustness**: Implemented a system that maps log levels (DEBUG, INFO, WARNING, ERROR) directly to their respective private methods.
-> - **Memory Safety**: Ensures clean object life cycles and proper resource management without memory leaks.
+**Implementation Highlights:**
+- **Efficiency**: Replaced complex if/else or switch structures with an array of pointers to member functions for $O(1)$ command lookup.
+- **Robustness**: Implemented a system that maps log levels (DEBUG, INFO, WARNING, ERROR) directly to their respective private methods.
+- **Memory Safety**: Ensures clean object life cycles and proper resource management without memory leaks.
 
-![Implementation of ex05](https://github.com/Tarcisio2code/42Berlin/tree/master/Projects/CPP-Modules/cpp01/screenshot.png)
+![preview](screenshot.png)

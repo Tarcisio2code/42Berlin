@@ -36,9 +36,9 @@ This module introduces **Ad-hoc polymorphism**, **operator overloading**, and th
 
 ## 📸 Featured Exercise: [ex02](https://github.com/Tarcisio2code/42Berlin/tree/master/Projects/CPP-Modules/cpp02/ex02)
 
-> **Implementation Highlights:**
-> - **Comprehensive Overloading**: Full implementation of arithmetic and comparison operators for the Fixed class.
-> - **Precision Control**: Managing bit-shifting to handle conversions between integers, floats, and fixed-point values.
-> - **Static Member Functions**: Inclusion of min and max functions to compare fixed-point objects efficiently.
+**Implementation Highlights:**
+- **Comprehensive Overloading**: Full implementation of arithmetic and comparison operators for the Fixed class.
+- **Precision Control**: Managing bit-shifting to handle conversions between integers, floats, and fixed-point values.
+- **Static Member Functions**: Inclusion of min and max functions to compare fixed-point objects efficiently.
 
-![Implementation of ex02](https://github.com/Tarcisio2code/42Berlin/tree/master/Projects/CPP-Modules/cpp02/screenshot.png)
+![preview](screenshot.png)
