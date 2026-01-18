@@ -2,6 +2,7 @@
 ## 42 Berlin - Projects
 ![C](https://img.shields.io/badge/language-C-blue.svg)
 ![VirtualBox](https://img.shields.io/badge/Virtualization-VirtualBox-2143a5?style=flat-square&logo=virtualbox&logoColor=white)
+![C++](https://img.shields.io/badge/language-C++-blue.svg)
 ![Makefile](https://img.shields.io/badge/build-Makefile-orange.svg)
 ![42](https://img.shields.io/badge/school-42Berlin-black.svg)
 ![Status](https://img.shields.io/badge/status-work--in--progress-orange?style=flat-square)
@@ -16,4 +17,8 @@
 
 **Virtual Machines**
 > [**Born2beRoot**: _a project designed to introduce you to virtualization and basic system administration_](https://github.com/Tarcisio2code/42Berlin/tree/master/Projects/Born2beRoot)    
+
+**C++ Language** 
+> [**CPP Modules**: _a deep dive into modern C++, OOP, memory management, polymorphism, templates, STL, and performance-conscious design._](https://github.com/Tarcisio2code/42Berlin/tree/master/Projects/CPP-Modules)    
+
 
