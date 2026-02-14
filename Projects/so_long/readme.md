@@ -39,6 +39,9 @@ The So_Long project demonstrates the use of the MLX library to create a graphica
 
 ## Usage
 1. Clone the repository:
+```bash
+git clone https://github.com/tarcisio2code/42Berlin.git
+```
 
 2. Install Requirements for Linux
    - X11 include files (package xorg)
