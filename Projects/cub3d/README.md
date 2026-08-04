@@ -7,6 +7,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
 
 ## 📖 Overview
+<img align="right" width="300" style="padding-left: 10px;" src="screenshots/cub3D.png" alt="cub3D">     
 
 **Cub3D** is one of the most iconic projects of the 42 curriculum. Inspired by the original **Wolfenstein 3D**, the objective is to build a complete first-person rendering engine using **raycasting**, without relying on any existing 3D engine.
 
@@ -104,7 +105,7 @@ make
 | H | Help |
 | ESC | Exit |
 
-# 📚 References
+## 📚 References
 
 - **MiniLibX Documentation**  
   https://harm-smits.github.io/42docs/libs/minilibx
@@ -118,7 +119,7 @@ make
 - **Wolfenstein 3D (Wikipedia)**  
   https://en.wikipedia.org/wiki/Wolfenstein_3D
 
-# 🎨 Assets
+## 🎨 Assets
 
 All textures, sprites and UI elements were created specifically for this project.    
 ----
