@@ -23,7 +23,8 @@
 > [**Born2beRoot**: _a project designed to introduce you to virtualization and basic system administration._](https://github.com/Tarcisio2code/42Berlin/tree/master/Projects/Born2beRoot)    
 
 **C++ Language** 
-> [**CPP Modules**: _a deep dive into modern C++, OOP, memory management, polymorphism, templates, STL, and performance-conscious design._](https://github.com/Tarcisio2code/42Berlin/tree/master/Projects/CPP-Modules)    
+> [**CPP Modules**: _a deep dive into modern C++, OOP, memory management, polymorphism, templates, STL, and performance-conscious design._](https://github.com/Tarcisio2code/42Berlin/tree/master/Projects/CPP-Modules)
+> [**ft_irc**: _a custom Internet Relay Chat server implementation focused on socket programming, multiplexing, and the IRC protocol specifications._](https://github.com/tsilva42/ft_irc)
 
 **Networking**
 > [**NetPractice**: _a comprehensive exploration of network addressing, routing tables, subnets, and internet protocols._](https://github.com/Tarcisio2code/42Berlin/tree/master/Projects/NetPractice)    
