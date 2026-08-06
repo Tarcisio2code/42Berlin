@@ -1,0 +1,3 @@
+[submodule "Projects/ft_irc"]
+	path = Projects/ft_irc
+	url = https://github.com/tsilva42/ft_irc.git
