@@ -1,3 +1,6 @@
 [submodule "Projects/ft_irc"]
 	path = Projects/ft_irc
 	url = https://github.com/tsilva42/ft_irc.git
+[submodule "Projects/transcendence"]
+	path = Projects/transcendence
+	url = https://github.com/tghnx1/scenegraph.git

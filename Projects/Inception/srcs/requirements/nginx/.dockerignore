@@ -1,0 +1,6 @@
+.env
+*.txt
+secrets/
+
+.git
+.gitignore
